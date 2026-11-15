@@ -265,7 +265,33 @@
           "url": "https://drive.google.com/file/d/1SbEs5Il-1TRQ4kLRbJPpsKBzEq4Mp7wQ/view",
           "checkedAt": "2026-11-15"
         }
-      }
+      },
+      "advancedReadings": [
+        {
+          "title": "送日本國僧敬龍歸／淮上與友人別",
+          "authors": "韋莊／鄭谷",
+          "exam": "106年國中教育會考・國文",
+          "questions": "47–48",
+          "level": "跨學段進階補充・雙唐詩題組",
+          "rationale": "優先進階候選：第47題比較時間、地點與乘船等詩意訊息，第48題比較重複字詞、虛實與用韻。可承接本課兩首詩的比較閱讀，觀察明月、風笛等意象與送別情境；再與〈早發白帝城〉的輕快心情對照。原題並非直接考以動襯靜。",
+          "teaching": "先提供扶桑、瀟湘、離亭等注釋，帶學生逐句語譯，再以表格比較景物、聲音與情感；第48題涉及用韻，可作選擇性挑戰。",
+          "sourceUrl": "https://public.ehanlin.com.tw/pre-exam/cap/106%E6%9C%83%E8%80%83%E5%9C%8B%E6%96%87%E9%A1%8C%E6%9C%AC.pdf",
+          "sourceStatus": "已讀翰林公開之106年會考題本轉載的封面與印刷頁13之詩文、第47–48題文字；官方原檔未能讀取，未核對官方答案。",
+          "officialIndex": "https://cap.rcpet.edu.tw/examination.html"
+        },
+        {
+          "title": "尋陸鴻漸不遇",
+          "authors": "皎然",
+          "exam": "114年國中教育會考・國文",
+          "questions": "18",
+          "level": "跨學段進階補充・唐詩單題",
+          "rationale": "基礎銜接候選：辨識詩人實際看到、未看到及由鄰居得知的訊息，練習依語詞作推論，避免把未開花讀成盛開、把訪友讀成已見到友人。可連結〈鳥鳴澗〉對聲音有無的細讀，但本題主要是詩意理解，並未直接評量情景交融。",
+          "teaching": "先說明帶郭、著花、西家、日斜的意思；讓學生分成親見、未見、聽說三欄，再回到原詩找證據。",
+          "sourceUrl": "https://website.hle.com.tw/mgz/file/jpc/114%E5%B9%B4%E6%9C%83%E8%80%83_%E8%A7%A3%E6%9E%90%E5%8D%B7(%E5%9C%8B%E6%96%87)-%E7%BF%B0%E6%9E%97.pdf",
+          "sourceStatus": "已讀翰林114年會考解析卷第4頁之詩文、第18題及解析文字；這是出版社解析版本，官方題本與官方答案未另行核對。",
+          "officialIndex": "https://cap.rcpet.edu.tw/examination.html"
+        }
+      ]
     }
   }
 }
